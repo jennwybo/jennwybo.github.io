@@ -1,0 +1,70 @@
+body{
+    background-color: #56E1EB;
+
+}
+
+.header{
+    background-color: #99E3E8;
+    padding: 20px 10px;
+    color: black;
+    text-align: center;
+
+}
+.header a{
+    padding: 15px 10px;
+    text-align: center;
+}
+
+.header a:hover {
+    background-color: #99E3E8;
+    color: black;
+     text-align: center
+
+  }
+
+.articletitle{
+    text-align: center;
+    font-size: 35px;
+}
+
+img {
+    width: 50%;
+    padding-left: 400px;
+    padding-top: 10px;
+    text-align: center;
+}
+  
+@media screen and (max-width: 500px) {
+    .header a {
+      background-color: aquamarine;
+      display: block;
+      text-align: left;
+    }
+  }
+/*Youtube*/
+.iframe-container{
+    margin-left: auto;
+    width: 550px;
+    height: 250px;
+}
+.Para{
+    font-style: normal ;
+    font-size: 25px;
+    font-family: Geneva;
+    text-align: center;
+}
+
+.Paratwo{
+    font-style: normal ;
+    font-size: 25px;
+    font-family: Geneva;
+    text-align: center;
+
+}
+
+
+.data-wrapper-container{
+    text-align: center;
+}
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat1015.cur), auto !important;} /* End https://www.cursors-4u.com */
